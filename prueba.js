@@ -25,7 +25,7 @@ else{
   console.log("Son diferentes");
 }
 */
-let list=["p","i","o"];
+let list=["m","i","o"];
 let dicc = {
 "usuario" :"jose",
 "pass" : 123
